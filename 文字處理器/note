@@ -1,0 +1,1 @@
+pyinstaller -F --onefile --noconsole --add-data "D:\anaconda\Lib\site-packages\tkinterdnd2\tkdnd\win64;tkdnd" test.py
